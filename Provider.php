@@ -50,7 +50,7 @@ class Provider extends AbstractProvider implements ProviderInterface
             'https://api.zarinpal.com/rest/v3/app/basicInfo.json', [
             'headers' => [
                 'Accept' => 'application/json',
-                'Authorize' => 'Bearer ' . $token,
+                'Authorization' => 'Bearer ' . $token,
             ],
         ]);
 
