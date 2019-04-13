@@ -1,5 +1,5 @@
 {
-    "name": "rtler/zarinpal-socialite-provider",
+    "name": "acharsoft/zarinpal-socialite-provider",
     "description": "Zarinpal OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
